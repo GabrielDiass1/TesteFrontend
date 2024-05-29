@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913E3B78-C5D9-48AC-9756-9E2F3DEDE5CC}|APITeste\\APITeste.csproj|c:\\users\\gabri\\desktop\\teste frontend zdz\\api\\apiteste\\apiteste\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913E3B78-C5D9-48AC-9756-9E2F3DEDE5CC}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E3B78-C5D9-48AC-9756-9E2F3DEDE5CC}|APITeste\\APITeste.csproj|c:\\users\\gabri\\desktop\\teste frontend zdz\\api\\apiteste\\apiteste\\properties\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913E3B78-C5D9-48AC-9756-9E2F3DEDE5CC}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\properties\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E3B78-C5D9-48AC-9756-9E2F3DEDE5CC}|APITeste\\APITeste.csproj|c:\\users\\gabri\\desktop\\teste frontend zdz\\api\\apiteste\\apiteste\\properties\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913E3B78-C5D9-48AC-9756-9E2F3DEDE5CC}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\properties\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E3B78-C5D9-48AC-9756-9E2F3DEDE5CC}|APITeste\\APITeste.csproj|c:\\users\\gabri\\desktop\\teste frontend zdz\\api\\apiteste\\apiteste\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913E3B78-C5D9-48AC-9756-9E2F3DEDE5CC}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\APITeste\\Properties\\Models\\EFDBContext.cs",
+              "RelativeDocumentMoniker": "APITeste\\Properties\\Models\\EFDBContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\APITeste\\Properties\\Models\\EFDBContext.cs",
+              "RelativeToolTip": "APITeste\\Properties\\Models\\EFDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:38:36.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\APITeste\\Properties\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "APITeste\\Properties\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\APITeste\\Properties\\Models\\Categoria.cs",
+              "RelativeToolTip": "APITeste\\Properties\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:38:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\APITeste\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "APITeste\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\APITeste\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "APITeste\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:30:28.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\APITeste\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "APITeste\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Teste Frontend ZDZ\\API\\APITeste\\APITeste\\WeatherForecast.cs",
+              "RelativeToolTip": "APITeste\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:27:10.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
